@@ -1,0 +1,2 @@
+# Flight price monitor
+I love to travel, and I believe more and more people do. However, since I am not still rich enough to go anywhere anytime I want, always when I start to plan a new trip the search for a flight with the price we are willing to pay can become tedious and frustrating. So, I decided to build this flight price monitor with python and keep it alive looking for flights always that I want one, and send me a warning by e-mail when it finds one with the price I believe is fair enough.
